@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiThreading</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="imageURL">
+        <item>http://webelectricmn.com/wp-content/uploads/2014/04/Football-players.jpg</item>
+        <item>http://www.sucai.com.cn/bizhi/Wallpaper/tiyu/3590/1440WorldCup_007.jpg</item>
+        <item>http://static2.demotix.com/sites/default/files/imagecache/a_scale_large/1600-1/photos/1354265372-astra-giurgiu-defeats-rapid-bucharest-32-in-romanian-cup-match_1644431.jpg</item>
+        <item>http://img.breakingmuscle.com/sites/default/files/imagecache/full_width/images/bydate/20130211/shutterstock37895866.jpg</item>
+    </string-array>
+
+</resources>
